@@ -1,0 +1,17 @@
+{
+  "name": "01duhy-o2tx7j",
+  "hash": "M4OjiYRXXNga6TOfB7/i9YH24kMoKWZu9LNeBT20okA=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/yoshiki/WebstormProjects/next-amplified/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs12.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::400168155065:role/01duhy-nn1zh6o"
+  },
+  "arn": "arn:aws:lambda:us-east-1:400168155065:function:01duhy-o2tx7j",
+  "region": "us-east-1"
+}
